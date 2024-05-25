@@ -1,0 +1,10 @@
+@font-face {
+    font-family: "Octin College";
+    src: url('public/fonts/octin-college.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+body {
+    font-family: "Octin College";
+}
